@@ -19,3 +19,9 @@ Whois Lookup
 
 ## [InVision](https://www.invisionapp.com/)
 Prototyping tool that allows you to create clickable versions of your design
+
+## [web.dev](https://web.dev/)
+With actionable guidance and analysis, web.dev helps developers like you learn and apply the web's modern capabilities to your own sites and apps.
+
+## [unDraw](https://undraw.co/)
+Open-source illustrations for every project you can imagine and create
